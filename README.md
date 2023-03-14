@@ -1,4 +1,4 @@
-# Covid-Track
+# Covid-Track project
 >A safety net to follow COVID-19
 
 ## About the project: 
