@@ -28,3 +28,7 @@ The features of our application are as follows.
 
 - Vaccination Centers can request vaccines from Vaccine Manufacturers, who will then produce and supply the requested vaccines to the centers.
 
+Screenshots:
+
+![Sysadmin Dshboard](https://user-images.githubusercontent.com/53735437/224517117-a064cfa5-4769-402d-abab-fdde41ad7ba1.jpeg)
+![ManageEnterprise (1)](https://user-images.githubusercontent.com/53735437/224517121-3beb0a72-7963-41ef-b9e5-050e73c97814.jpeg)
